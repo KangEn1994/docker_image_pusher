@@ -1,4 +1,5 @@
 nginx
+joinsunsoft/docker.ui
 python
 snowdreamtech/frps
 snowdreamtech/frpc
