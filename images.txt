@@ -1,8 +1,7 @@
 redmine
 star7th/showdoc
 mereith/van-blog
-gitlab/gitlab-ce
-codercom/code-server:opensuse
+linuxserver/code-server:latest
 # pull地址   registry.cn-hangzhou.aliyuncs.com/kang_en/xxxx:xxxx
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
