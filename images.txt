@@ -1,4 +1,5 @@
 redmine
+python
 star7th/showdoc
 mereith/van-blog
 linuxserver/code-server:latest
